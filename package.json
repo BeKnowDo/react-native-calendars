@@ -1,8 +1,8 @@
 {
   "name": "react-native-calendars",
-  "version": "1.22.0",
+  "version": "0.1",
   "main": "src/index.js",
-  "description": "React Native Calendar Components",
+  "description": "React Native Calendar Components onViewableMonth State Fix",
   "scripts": {
     "build": "xcodebuild -project ios/CalendarsExample.xcodeproj build",
     "e2e": "node ./scripts/test-e2e.js",
