@@ -1,6 +1,6 @@
 {
   "name": "bkd-react-native-calendars",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "src/index.js",
   "description": "React Native Calendar Components onViewableMonth State Fix",
   "scripts": {
